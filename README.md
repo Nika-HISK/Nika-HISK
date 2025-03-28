@@ -1,18 +1,64 @@
-#  About Me:
-👋 Hello! I'm Nika, a passionate back-end developer with a focus on building efficient and scalable applications. Over the past year, I've been actively honing my skills in:<br><br>TypeScript and Node.js for building server-side applications<br>NestJS as my framework of choice for creating modular, maintainable back-end systems<br>MySQL for managing databases and ensuring data integrity<br>AWS for cloud services, along with Render for server management and deployments<br>One of my proudest accomplishments so far is being part of a team that developed a full-fledged music application, which allowed me to apply my knowledge and collaborate effectively.<br><br>I'm always eager to learn and improve, and I'm excited to continue building projects and expanding my expertise. 🚀
+# Hi there, I'm Nika Chinchaladze! 👋
 
+## 🚀 About Me
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/852941063915438111) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/nika.chinchaladze2) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nika.chinchaladze5/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze-5180352ba/) 
+I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in building scalable and efficient backend systems. My focus is on developing high-performance applications using **Node.js, Nest.js,** and modern database technologies. I enjoy solving complex problems and optimizing system performance.
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Nika-HISK&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Nika-HISK&theme=blue_navy&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Nika-HISK&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Nika-HISK&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+## 💻 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Languages:** JavaScript, TypeScript  
+
+**Backend:** Node.js, Express.js, Nest.js  
+
+**Databases:** MySQL, MariaDB, PostgreSQL, MongoDB  
+
+**DevOps & Cloud:** Kubernetes, Docker, AWS S3, Nginx  
+
+**ORMs & Tools:** PrismaORM, TypeORM, Sequelize  
+
+**Security & Authentication:** JWT Auth, REST APIs, GraphQL  
+
+**Other Skills:** Git & GitHub, Linux, Microservices, HTML & CSS  
+
+---
+
+## 🔥 Work Experience
+
+### Backend Developer | Novatori - Digital Professions Academy (2024 – 2025)
+- Built scalable backend systems using **Nest.js** and **TypeORM**.
+- Developed secure REST APIs for seamless frontend-backend communication.
+- Optimized **MySQL & PostgreSQL** database structures, improving data retrieval by **20%**.
+
+---
+
+## 🚀 Projects
+
+### 📌 Premium WordPress Hosting Provider
+- Developed a **scalable, high-performance** WordPress hosting platform with **Nest.js, MySQL, Kubernetes, Docker, and Nginx**.
+- Automated WordPress deployment and management with **WP-CLI**.
+- Ensured **security and reliability** through containerized microservices.
+
+### 🎵 Music Streaming Website
+- Developed the **backend** for a **Spotify-like** music streaming platform.
+- Implemented **user authentication, music library management, and playlists**.
+- Built a **well-structured RESTful API** using **Nest.js** and **MySQL**.
+
+---
+
+## 🏆 Leadership & Team Management
+
+### Backend Developer & Team Lead | Premium WordPress Hosting Provider (2024 – 2025)
+- Managed project tasks and workflows using **Jira and Monday.com**.
+- Conducted **daily stand-up meetings** to align goals and resolve blockers.
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Nika-HISK)  
+📧 **Email:** chinchaladzebeso4@gmail.com  
+
+Let's collaborate and build amazing projects together! 🚀
