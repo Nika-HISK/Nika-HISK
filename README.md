@@ -29,7 +29,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ### Backend Developer | Novatori - Digital Professions Academy (2024 – 2025)
 - Built scalable backend systems using **Nest.js** and **TypeORM**.
 - Developed secure REST APIs for seamless frontend-backend communication.
-- Optimized **MySQL & PostgreSQL** database structures, improving data retrieval by **20%**.
+- Optimized **MySQL & PostgreSQL** database structures.
 
 ---
 
