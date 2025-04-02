@@ -1,4 +1,4 @@
-# Hi there, I'm Nika Chinchaladze! 👋
+# Hi there, I'm Nika! 👋
 
 ## 🚀 About Me
 
