@@ -9,17 +9,11 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ## 💻 Tech Stack
 
 **Languages:** JavaScript, TypeScript  
-
 **Backend:** Node.js, Express.js, Nest.js  
-
 **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB  
-
 **DevOps & Cloud:** Kubernetes, Docker, AWS S3, Nginx  
-
 **ORMs & Tools:** PrismaORM, TypeORM, Sequelize  
-
 **Security & Authentication:** JWT Auth, REST APIs, GraphQL  
-
 **Other Skills:** Git & GitHub, Linux, Microservices, HTML & CSS, Swagger
 
 ---
@@ -36,9 +30,13 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ## 🚀 Projects
 
 ### 📌 Premium WordPress Hosting Provider
-- Developed a **scalable, high-performance** WordPress hosting platform with **Nest.js, MySQL, Kubernetes, Docker, and Nginx**.
-- Automated WordPress deployment and management with **WP-CLI**.
-- Ensured **security and reliability** through containerized microservices.
+- Developed a **multi-tenant, high-performance** WordPress hosting platform with **Nest.js**, **MySQL**, **Kubernetes**, **Docker**, and **Nginx**.
+- Built backend logic to dynamically provision and manage isolated WordPress instances per user using **WP-CLI**, container orchestration, and namespace-based isolation in Kubernetes.
+- Configured **Nginx** with **PHP-FPM** to serve individual user WordPress instances, enabling performance tuning and flexibility.
+- Integrated **AWS S3** for secure user media storage and backups.
+- Enabled lifecycle operations (install, update, delete) on WordPress via backend APIs.
+- Provided RESTful APIs documented with **Swagger** for frontend communication.
+- Emphasized security, modular architecture, and automated deployment pipelines using **Docker** and **Husky**.
 
 ### 🎵 Music Streaming Website
 - Developed the **backend** for a **Spotify-like** music streaming platform.
