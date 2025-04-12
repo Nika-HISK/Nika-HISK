@@ -20,7 +20,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 **Security & Authentication:** JWT Auth, REST APIs, GraphQL  
 
-**Other Skills:** Git & GitHub, Linux, Microservices, HTML & CSS  
+**Other Skills:** Git & GitHub, Linux, Microservices, HTML & CSS, Swagger
 
 ---
 
