@@ -8,7 +8,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ## 💻 Tech Stack
 
-**Languages:** JavaScript, TypeScript  
+**Languages:** JavaScript, TypeScript, Java
 **Backend:** Node.js, Express.js, Nest.js  
 **Databases:** MySQL, MariaDB, PostgreSQL, MongoDB  
 **DevOps & Cloud:** Kubernetes, Docker, AWS S3, Nginx  
