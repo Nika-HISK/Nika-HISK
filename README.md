@@ -45,6 +45,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 - Emphasized security, modular architecture, and automated deployment pipelines using **Docker** and **Husky**.
 
 ### 🎵 Music Streaming Website
+
 - Developed the **backend** for a **Spotify-like** music streaming platform.
 - Implemented **user authentication, music library management, and playlists**.
 - Built a **well-structured RESTful API** using **Nest.js** and **MySQL**.
