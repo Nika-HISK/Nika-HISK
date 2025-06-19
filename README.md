@@ -88,7 +88,6 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Nika-HISK)  
 📧 **Email:** chinchaladzebeso4@gmail.com  
 Let's collaborate and build amazing projects together! 🚀
 
