@@ -35,6 +35,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 **ORMs & Tools:** ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-EF3E36?logo=typeorm&logoColor=white)
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?logo=sequelize&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
 
 **Security & Authentication:** ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-FF6F61?&logoColor=white)
