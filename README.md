@@ -16,7 +16,6 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 
 
-
 **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
