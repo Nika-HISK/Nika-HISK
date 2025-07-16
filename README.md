@@ -49,6 +49,8 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ---
 
+
+
 ## 🔥 Work Experience
 
 ### Backend Developer | Novatori - Digital Professions Academy (2024 – 2025)
@@ -58,9 +60,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ---
 
-## 🚀 Projects
-
-### 📌 Premium WordPress Hosting Provider
+- ### Premium WordPress Hosting Provider | Kaizen flow (2024-2025)
 - Developed a **multi-tenant, high-performance** WordPress hosting platform with **Nest.js**, **MySQL**, **Kubernetes**, **Docker**, and **Nginx**.
 - Built backend logic to dynamically provision and manage isolated WordPress instances per user using **WP-CLI**, container orchestration, and namespace-based isolation in Kubernetes.
 - Configured **Nginx** with **PHP-FPM** to serve individual user WordPress instances, enabling performance tuning and flexibility.
@@ -69,6 +69,9 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 - Provided RESTful APIs documented with **Swagger** for frontend communication.
 - Emphasized security, modular architecture, and automated deployment pipelines using **Docker** and **Husky**.
 
+---
+
+## 🚀 Projects
 ### 🎵 Music Streaming Website
 
 - Developed the **backend** for a **Spotify-like** music streaming platform.
