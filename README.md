@@ -1,12 +1,12 @@
-# Hi there, I'm Nika! 👋
+# Hi there, I'm Nika! 
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in building scalable and efficient backend systems. My focus is on developing high-performance applications using **Node.js, Nest.js,** and modern database technologies. I enjoy solving complex problems and optimizing system performance.
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -51,7 +51,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 
 
-## 🔥 Work Experience
+##  Work Experience
 
 ### Backend Developer | Novatori - Digital Professions Academy (2024 – 2025)
 - Built scalable backend systems using **Nest.js** and **TypeORM**.
@@ -71,8 +71,8 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ---
 
-## 🚀 Projects
-### 🎵 Music Streaming Website
+##  Projects
+###  Music Streaming Website
 
 - Developed the **backend** for a **Spotify-like** music streaming platform.
 - Implemented **user authentication, music library management, and playlists**.
@@ -80,7 +80,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ---
 
-## 🏆 Leadership & Team Management
+##  Leadership & Team Management
 
 ### Backend Developer & Team Lead | Premium WordPress Hosting Provider (2024 – 2025)
 - Managed project tasks and workflows using **Jira and Monday.com**.
@@ -88,10 +88,10 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
-📧 **Email:** chinchaladzebeso4@gmail.com  
-Let's collaborate and build amazing projects together! 🚀
+ **Email:** chinchaladzebeso4@gmail.com  
+Let's collaborate and build amazing projects together! 
 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Nika-HISK)
