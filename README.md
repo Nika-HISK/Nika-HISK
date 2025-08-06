@@ -11,6 +11,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 **Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat&labelColor=F89820&color=F89820)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
 
 
 
