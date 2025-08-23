@@ -30,6 +30,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) 
 
 **ORMs & Tools:** ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-EF3E36?logo=typeorm&logoColor=white)
