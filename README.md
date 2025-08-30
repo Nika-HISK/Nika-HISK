@@ -61,7 +61,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 - Built scalable backend systems using **Nest.js** and **TypeORM**.
 - Developed secure REST APIs for seamless frontend-backend communication.
 - Optimized **MySQL & PostgreSQL** database structures.
-
+- Improved site performance and reduced downtime for WordPress users.
 ---
 
 - ### Premium WordPress Hosting Provider | Kaizen flow (2024-2025)
