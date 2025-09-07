@@ -57,14 +57,14 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ##  Work Experience
 
-### Backend Developer | Novatori - Digital Professions Academy (2024 – 2025)
+### Backend Developer | Novatori - Digital Professions Academy
 - Built scalable backend systems using **Nest.js** and **TypeORM**.
 - Developed secure REST APIs for seamless frontend-backend communication.
 - Optimized **MySQL & PostgreSQL** database structures.
 - Improved site performance and reduced downtime for WordPress users.
 ---
 
-- ### Premium WordPress Hosting Provider | Kaizen flow (2024-2025)
+- ### Premium WordPress Hosting Provider | Kaizen flow
 - Developed a **multi-tenant, high-performance** WordPress hosting platform with **Nest.js**, **MySQL**, **Kubernetes**, **Docker**, and **Nginx**.
 - Built backend logic to dynamically provision and manage isolated WordPress instances per user using **WP-CLI**, container orchestration, and namespace-based isolation in Kubernetes.
 - Configured **Nginx** with **PHP-FPM** to serve individual user WordPress instances, enabling performance tuning and flexibility.
