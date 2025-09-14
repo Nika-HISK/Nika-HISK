@@ -13,7 +13,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ![Java](https://img.shields.io/badge/Java-F89820?style=flat&labelColor=F89820&color=F89820)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=yellow)
 
-**AI & LLM Frameworks:**  ![Mastra](https://img.shields.io/badge/Mastra-0A0A0A?logoColor=white&label=Framework)  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
+**AI & LLM Frameworks:**  ![Mastra](https://img.shields.io/badge/Mastra-0A0A0A?logoColor=white)  ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
 
 **Backend:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
