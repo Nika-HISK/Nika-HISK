@@ -63,7 +63,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 - Improved site performance and reduced downtime for WordPress users.
 ---
 
-- ### Premium WordPress Hosting Provider | Kaizen flow
+ ### Premium WordPress Hosting Provider | Kaizen flow
 - Developed a **multi-tenant, high-performance** WordPress hosting platform with **Nest.js**, **MySQL**, **Kubernetes**, **Docker**, and **Nginx**.
 - Built backend logic to dynamically provision and manage isolated WordPress instances per user using **WP-CLI**, container orchestration, and namespace-based isolation in Kubernetes.
 - Configured **Nginx** with **PHP-FPM** to serve individual user WordPress instances, enabling performance tuning and flexibility.
