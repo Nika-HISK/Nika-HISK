@@ -2,7 +2,7 @@
 
 ##  About Me
 
-I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in building scalable and efficient backend systems. My focus is on developing high-performance applications using **Node.js, Nest.js, Java, Spring** and modern database technologies. I enjoy solving complex problems and optimizing system performance.
+I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in building scalable and efficient backend systems. My focus is on developing high-performance applications using **Node.js, Nest.js, Java, Spring** and modern database technologies. I enjoy solving complex problems and optimizing system performance
 
 ---
 
