@@ -1,4 +1,4 @@
-# Hi there, I'm Nika! 
+# Hi there, I'm Nika
 
 ##  About Me
 
