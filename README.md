@@ -74,15 +74,6 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ---
 
-##  Projects
-###  Music Streaming Website
-
-- Developed the **backend** for a **Spotify-like** music streaming platform.
-- Implemented **user authentication, music library management, and playlists**.
-- Built a **well-structured RESTful API** using **Nest.js** and **MySQL**.
-
----
-
 ##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
