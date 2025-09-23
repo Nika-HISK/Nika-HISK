@@ -83,14 +83,6 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ---
 
-##  Leadership & Team Management
-
-### Backend Developer & Team Lead | Premium WordPress Hosting Provider (2024 – 2025)
-- Managed project tasks and workflows using **Jira and Monday.com**.
-- Conducted **daily stand-up meetings** to align goals and resolve blockers.
-
----
-
 ##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
