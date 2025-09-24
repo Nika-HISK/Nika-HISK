@@ -62,18 +62,6 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 - Optimized **MySQL & PostgreSQL** database structures.
 - Improved site performance and reduced downtime for WordPress users.
 ---
-
- ### Premium WordPress Hosting Provider | Kaizen flow
-- Developed a **multi-tenant, high-performance** WordPress hosting platform with **Nest.js**, **MySQL**, **Kubernetes**, **Docker**, and **Nginx**.
-- Built backend logic to dynamically provision and manage isolated WordPress instances per user using **WP-CLI**, container orchestration, and namespace-based isolation in Kubernetes.
-- Configured **Nginx** with **PHP-FPM** to serve individual user WordPress instances, enabling performance tuning and flexibility.
-- Integrated **AWS S3** for secure user media storage and backups.
-- Enabled lifecycle operations (install, update, delete) on WordPress via backend APIs.
-- Provided RESTful APIs documented with **Swagger** for frontend communication.
-- Emphasized security, modular architecture, and automated deployment pipelines using **Docker** and **Husky**.
-
----
-
 ##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
