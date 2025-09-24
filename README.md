@@ -56,6 +56,8 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 
 ##  Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
- **Email:** chinchaladzenika4@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)
+
+ **Email:** chinchaladzenika4@gmail.com
+ 
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Nika-HISK)
