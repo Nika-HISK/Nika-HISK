@@ -19,6 +19,7 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP_CAP-0FAAFF?logo=sap&logoColor=white)
 
 **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
@@ -32,7 +33,8 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ![AWS S3](https://img.shields.io/badge/AWS_S3-FF9900?logo=amazonaws&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white) 
-![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=amazonaws&logoColor=white)  
+![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?logo=amazonaws&logoColor=white)
+![SAP BTP](https://img.shields.io/badge/SAP_BTP-00274D?logo=sap&logoColor=white)
 
 **ORMs & Tools:** ![Prisma](https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-EF3E36?logo=typeorm&logoColor=white)
