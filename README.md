@@ -52,16 +52,6 @@ I'm a passionate **Backend Developer** from Tbilisi, Georgia, with expertise in 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=black)
 ---
 
-
-
-##  Work Experience
-
-### Backend Developer | Novatori - Digital Professions Academy
-- Built scalable backend systems using **Nest.js** and **TypeORM**.
-- Developed secure REST APIs for seamless frontend-backend communication.
-- Optimized **MySQL & PostgreSQL** database structures.
-- Improved site performance and reduced downtime for WordPress users.
----
 ##  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nika-chinchaladze)  
